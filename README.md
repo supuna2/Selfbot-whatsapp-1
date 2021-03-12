@@ -1,6 +1,6 @@
 # Selfbot For WhatsApp
 
-<img align="center" height="auto" src="https://i.ibb.co/mbx6MWZ/fd1c9c293cb5.jpg"/>
+<img align="center" height="auto" src="https://i.ibb.co/dbBCH8N/adf98ab507ef.jpg"/>
 
 # Installation
 
