@@ -14,8 +14,11 @@
 ```
 ## Edit config file
 Edit the required value in [`option.json`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/src/option.json)
+</p>
 Lolhuman [`LoL Human Rest API`](http://api.lolhuman.xyz/) 
+</p>
 Naufal [`NaufalApi`](Naufalhoster.xyz)
+
 ```json
 {
     "Lolkey": "",
