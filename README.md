@@ -34,6 +34,8 @@ List menu in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/mai
 * [`WhatsApp`](http://wa.me/6289513946766)
 * [`Instagram`](http://instagram.com/lindoww.6)
 
+
+
 ## Join Group
 * [`My Group`](https://chat.whatsapp.com/JYb7i2b4GbICa0fk17KHOk)
 
@@ -42,3 +44,5 @@ List menu in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/mai
 * [`Hafizh`](https://github.com/HAFizh-15)
 * [`LolHuman`](https://github.com/LoL-Human)
 * [`Ehan`](http://github.com/EhanGanss)
+
+* Premium feature free? give me 20 stars :D
