@@ -1,6 +1,8 @@
 /**
-* Originally By Hafizh
-* Recoded By Lindow
+* Originally by Hafizh
+* Recoded by Lindow
+* Premium fiture? contact me via WhatsApp
+* Hayo ada tukang colong case nichh
 **/
 const
 {
