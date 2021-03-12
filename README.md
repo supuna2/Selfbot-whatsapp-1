@@ -1,5 +1,7 @@
 # Selfbot For WhatsApp
 
+<img align="center" height="auto" src="https://i.ibb.co/mbx6MWZ/fd1c9c293cb5.jpg"/>
+
 # Installation
 
 ## Termux
@@ -21,10 +23,12 @@ Naufal [`NaufalApi`](Naufalhoster.xyz)
 
 ```json
 {
-    "Lolkey": "",
-    "Nopalkey": "!"
+    "Lolkey": "YourApikey",
+    "Nopalkey": "YourApikey"
 }
 ```
+
+List menu in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/index.js)
 
 ## My social media
 * [`WhatsApp`](http://wa.me/6289513946766)
