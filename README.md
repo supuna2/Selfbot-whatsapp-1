@@ -19,7 +19,7 @@ Edit the required value in [`option.json`](https://github.com/lindow666/Selfbot-
 
 Lolkey Get in [`LoL Human Rest API`](http://api.lolhuman.xyz/) 
 
-Nopalkey Get in [`Naufal Rest API`](Naufalhoster.xyz)
+Nopalkey Get in [`Naufal Rest API`](http://naufalhoster.xyz)
 
 ```json
 {
