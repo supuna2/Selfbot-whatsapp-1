@@ -12,8 +12,16 @@
 > bash install.sh
 > npm start
 ```
-
-* Note : Bot ini tidak menggunakan prefix seperti imgtosticker
+## Edit config file
+Edit the required value in [`option.json`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/src/option.json)
+Lolhuman [`LoL Human Rest API`](http://api.lolhuman.xyz/) 
+Naufal [`NaufalApi`](Naufalhoster.xyz)
+```json
+{
+    "Lolkey": "",
+    "Nopalkey": "!"
+}
+```
 
 ## My social media
 * [`WhatsApp`](http://wa.me/6289513946766)
