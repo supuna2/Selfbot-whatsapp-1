@@ -1,5 +1,5 @@
 {
-  "name": "LINDOW",
+  "name": "Selfbot-WhatsApp",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -46,15 +46,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HAFizh-15/TERMOS-WABOT.git"
+    "url": "git+https://github.com/lindow666/Selfbot-whatsapp.git"
   },
   "keywords": [
-    "k"
+    "Self",
+    "Selfbot Whasapp",
+    "Bot WhatsApp"
   ],
-  "author": "Hafizh",
-  "license": "ISC",
+  "author": "Lindow",
   "bugs": {
-    "url": "https://github.com/HAFizh-15/TERMOS-WABOT/issues"
+    "url": "https://github.com/Lindow666/Selfbot-whatsapp/issues"
   },
-  "homepage": "https://github.com/HAFizh-15/TERMOS-WABOT/readme"
+  "homepage": "https://github.com/Lindow666/Selfbot-whatsapp/readme"
 }
