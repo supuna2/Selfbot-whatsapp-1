@@ -17,9 +17,9 @@
 ## Edit config file
 Edit the required value in [`option.json`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/src/option.json)
 
-Lolhuman [`LoL Human Rest API`](http://api.lolhuman.xyz/) 
+Lolkey Get in [`LoL Human Rest API`](http://api.lolhuman.xyz/) 
 
-Naufal [`NaufalApi`](Naufalhoster.xyz)
+Nopalkey Get in [`Naufal Rest API`](Naufalhoster.xyz)
 
 ```json
 {
