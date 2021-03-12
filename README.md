@@ -34,6 +34,9 @@ List menu in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/mai
 * [`WhatsApp`](http://wa.me/6289513946766)
 * [`Instagram`](http://instagram.com/lindoww.6)
 
+## Join Group Jangan Bisa Nya Copy Doang
+* [`My Group`](https://chat.whatsapp.com/JYb7i2b4GbICa0fk17KHOk)
+
 ## Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hafizh`](https://github.com/HAFizh-15)
