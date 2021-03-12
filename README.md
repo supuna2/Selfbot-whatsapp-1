@@ -38,3 +38,4 @@ List menu in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/mai
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hafizh`](https://github.com/HAFizh-15)
 * [`LolHuman`](https://github.com/LoL-Human)
+* [`Ehan`](http://github.com/EhanGanss)
