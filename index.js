@@ -457,6 +457,23 @@ lindow.on('group-participants-update', async (anu) => {
                }
            }
                 break
+        case 'bc': 
+	        if (args.length < 1) return reply(`Usage :\n\n${prefix}bc yourtext`)
+	        anu = await lindow.chats.all()
+		if (isMedia && !lin.message.videoMessage || isQuotedImage) {
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(lin).replace('quotedM','m')).message.extendedTextMessage.contextInfo : lin
+						buff = await lindow.downloadMediaMessage(encmedia)
+						for (let _ of anu) {
+							lindow.sendMessage(_.jid, buff, image, {caption: `[ Information ]\n\n${body.slice(4)}`})
+						}
+						reply('*_Succes Broadcast_* ')
+					} else {
+						for (let _ of anu) {
+							sendMess(_.jid, `*「Information 」*\n\n${body.slice(4)}`)
+						}
+						reply('*_Succes Broadcast_*')
+	}
+        break
         case 'takestick':
         reply('premium, contact me via WhatsApp')
         break
@@ -700,7 +717,7 @@ Hit today : *${tmphit.length}*
   │ ● *${prefix}runtime*
   
 ❏ Islami menu
-  │ ● *${prefix}alquran
+  │ ● *${prefix}alquran*
 
 ❏ Tools menu
   │ ● *${prefix}pastebin* yourtext
